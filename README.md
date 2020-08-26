@@ -1,4 +1,4 @@
-# Course : Neural Data Science with Python 
+# 2020 Course : Neural Data Science with Python
 
 ![Logo](miscFiles/course-logo.png "Course Logo")
 
