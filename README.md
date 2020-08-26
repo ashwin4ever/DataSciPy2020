@@ -11,7 +11,7 @@ The field of neuroscience is becoming more and more quantitative and this develo
 of an ever-increasing stream of data derived from the brain. It is essential that this development
 is performed by neuroscientists who are ready and able to process this data. Data science is an emerging field
 dedicated to understanding principles in data sets. This teaching unit aims to introduce the
-science of neural data - the principles data science applied to neural data.
+principles data science applied to neural data.
 
 
 Concretely, *Neural Data Science with Python* aims to teach how to handle, analyze, visualize neural data, to create models and to run simulations of neural systems
@@ -33,16 +33,16 @@ programming is required as this course is for beginners.
 
 * Curiosity and desire to learn.
 * Active participation and contribution in particular during the tutorials.
-* Feedback during the course contributing to an open dialog to achieve on optimal learning experience.
+* Feedback during the course and contributions to an open dialog to achieve on optimal learning experience.
 
 
 ### Lecture Organization and Material
 
 Each course lasts for 2 hours. It consists of approximately 45 min lecture introducing the general motivation, scientific background and
 analysis principles. The lecture is followed by an 1h 10 min long guided tutorial during which the programming/analysis is performed
-by the students based on a prepared [Jupyter Notebook](https://jupyter.org). Lecture and tutorial are separated by a short 5 min break.
+by the students based on a pre-prepared [Jupyter Notebook](https://jupyter.org). Lecture and tutorial are separated by a short 5 min break.
 
-All lectures and guided tutorials take place at **11h-13h on Wednesday's in room Durkheim, 2nd floor, 45 rue des Saints-Pères** between September 9th, 2020 and December 2nd, 2020.
+All lectures and guided tutorials take place at **11h-13h on Wednesday's in room Durkheim, 2nd floor, 45 rue des Saints-Pères** between **September 9th and December 2nd, 2020**.
 
 
 **Lecture Overview**
@@ -71,7 +71,7 @@ moodle by Wednesday 11am** before the next course (e.g., the assignments of the 
 11am). Use the provided Jupyter Notebook (see table above or the moodle), add your edits to this file, and submit the modified Jupyter Notebook through the moodle.
 
 **Final exam (50 % of the final mark) :** Students will receive a list of projects they will work on
-for an extended period of time (about 1.5 months). Projects are small programming projects aimed at applying analysis methods acquired during the course. Projects can be
+for an extended period of time (about 1.5 months). Projects are small programming projects aimed at independently applying analysis methods acquired during the course. The project can be
 worked on individually or in teams of two students.
 
 All student work - the weekly homework assignments, the final report and talk - can prepared in English or French, up to the 
@@ -79,7 +79,7 @@ choice of the student.
 
 ### Accessible Computer Rooms and Account
 
-There are tree computer rooms available outside the hours of the course. The machines in these rooms feature the same
+There are three computer rooms available outside the hours of the course. The machines in these rooms feature the same
 Python installation as in the course and the same home directories (files stored during the course can be accessed 
 from these machine) : 
 *  Room **Durkheim** : left staircase from the main entrance hall up to second floor (access code will be provided in course). There are courses in that room during which it is not accessible.
