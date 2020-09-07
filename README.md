@@ -42,7 +42,7 @@ Each course lasts for 2 hours. It consists of approximately 45 min lecture intro
 analysis principles. The lecture is followed by an 1h 10 min long guided tutorial during which the programming/analysis is performed
 by the students based on a pre-prepared [Jupyter Notebook](https://jupyter.org). Lecture and tutorial are separated by a short 5 min break.
 
-All lectures and guided tutorials take place at **11h-13h on Wednesday's in room Durkheim, 2nd floor, 45 rue des Saints-Pères** between **September 9th and December 2nd, 2020**.
+All lectures and guided tutorials take place at **11h-13h on Wednesday's in room Durkheim, 2nd floor, access code: C2164, 45 rue des Saints-Pères** between **September 9th and December 2nd, 2020**.
 
 
 **Lecture Overview**
@@ -82,7 +82,7 @@ choice of the student.
 There are three computer rooms available outside the hours of the course. The machines in these rooms feature the same
 Python installation as in the course and the same home directories (files stored during the course can be accessed 
 from these machine) : 
-*  Room **Durkheim** : left staircase from the main entrance hall to access lecture halls Delmas or balcon Binet, second floor (access code will be provided in course). There are courses in that room during which it is not accessible.
+*  Room **Durkheim** : left staircase from the main entrance hall to access lecture halls Delmas or balcon Binet, second floor (access code C2164). There are courses in that room during which it is not accessible.
 *  Room **T209 bis** : 2nd floor, in front of Avogadro D, free access 
 *  Room **T117** : 1st floor, free access 
 
