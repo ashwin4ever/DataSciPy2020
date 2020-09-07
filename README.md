@@ -49,7 +49,7 @@ All lectures and guided tutorials take place at **11h-13h on Wednesday's in room
 
 | # | Date | Title | Lecturer |  Material |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 1 | Sep 9th | Introduction to Python : first steps | Michael Graupner | Lecture, Tutorial, Homework, Solutions  |
+| 1 | Sep 9th | Introduction to Python : first steps | Michael Graupner | [Lecture 1](lectures/L1_Introduction_Python.pdf), [Tutorial 1](tutorials/T01_Python-first-steps.ipynb), Homework, Solutions  |
 | 2 | Sep 16th | Time series : basic operations | Michael Graupner |  Lecture, Tutorial, Homework, Solutions   |
 | 3 | Sep 23rd | Wrangling spike trains : basic analysis, raster plot, PSTH, Poisson spike trains | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
 | 4 | Sep 30th | Spectral analysis of analog signals : Fourier transform, Spectrogram, Signal Filtering | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
@@ -82,7 +82,7 @@ choice of the student.
 There are three computer rooms available outside the hours of the course. The machines in these rooms feature the same
 Python installation as in the course and the same home directories (files stored during the course can be accessed 
 from these machine) : 
-*  Room **Durkheim** : left staircase from the main entrance hall up to second floor (access code will be provided in course). There are courses in that room during which it is not accessible.
+*  Room **Durkheim** : left staircase from the main entrance hall to access lecture halls Delmas or balcon Binet, second floor (access code will be provided in course). There are courses in that room during which it is not accessible.
 *  Room **T209 bis** : 2nd floor, in front of Avogadro D, free access 
 *  Room **T117** : 1st floor, free access 
 
