@@ -153,6 +153,6 @@ In case you want to run the course material on your private computer, the follow
 * scikit-learn
 * [Brian2](http://briansimulator.org/)
 
-[Here](lectures/PythonInstallation.pdf) are the slides of our installation party (Sep 14th, 2019) to help you with the installation of Python on your computer.
+[Here](lectures/PythonInstallation.pdf) are the slides of our installation party (16h30 in room Durkheim, Sep 14th, 2020) to help you with the installation of Python on your computer.
 
 
