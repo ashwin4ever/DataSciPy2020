@@ -82,7 +82,7 @@ choice of the student.
 There are three computer rooms available outside the hours of the course. The machines in these rooms feature the same
 Python installation as in the course and the same home directories (files stored during the course can be accessed 
 from these machine) : 
-*  Room **Durkheim** : left staircase from the main entrance hall to access lecture halls Delmas or balcon Binet, second floor (access code C2164). There are courses in that room during which it is not accessible.
+*  Room **Durkheim** : left staircase from the main entrance hall to access lecture halls Delmas or balcon Binet, second floor (access code C2164). There are courses in that room during which it is not accessible, you can find the planning [here](miscFiles/Durkheim_37.PNG).
 *  Room **T209 bis** : 2nd floor, in front of Avogadro D, free access 
 *  Room **T117** : 1st floor, free access 
 
