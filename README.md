@@ -50,7 +50,7 @@ All lectures and guided tutorials take place at **11h-13h on Wednesday's in room
 | # | Date | Title | Lecturer |  Material |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 1 | Sep 9th | Introduction to Python : first steps | Michael Graupner | [Lecture 1](lectures/L1_Introduction_Python.pdf), [Tutorial 1](tutorials/T01_Python-first-steps.ipynb), [Homework 1](exercises/E01_First-steps-in-Python.ipynb), Solutions  |
-| 2 | Sep 16th | Time series : basic operations | Michael Graupner |  Lecture, Tutorial, Homework, Solutions   |
+| 2 | Sep 16th | Time series : basic operations | Michael Graupner |  [Lecture 2](lectures/L2_Time_Series.pdf), [Tutorial 2](tutorials/T02_Time-series-Empty.ipynb), Homework, Solutions   |
 | 3 | Sep 23rd | Wrangling spike trains : basic analysis, raster plot, PSTH, Poisson spike trains | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
 | 4 | Sep 30th | Spectral analysis of analog signals : Fourier transform, Spectrogram, Signal Filtering | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
 | 5 | Oct 7th | Biophysical modelling of single neurons : integrate-and-fire neuron, introduction to numerical integration | Jonas Ranft | Lecture, Tutorial, Homework, Solutions  |
@@ -154,5 +154,6 @@ In case you want to run the course material on your private computer, the follow
 * [Brian2](http://briansimulator.org/)
 
 [Here](lectures/PythonInstallation.pdf) are the slides of our installation party (16h30 in room Durkheim, Sep 14th, 2020) to help you with the installation of Python on your computer.
+You can find the cloud recording of our installation party on the moodle.
 
 
