@@ -49,8 +49,9 @@ All lectures and guided tutorials take place at **11h-13h on Wednesday's in room
 
 | # | Date | Title | Lecturer |  Material |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 1 | Sep 9th | Introduction to Python : first steps | Michael Graupner | [Lecture 1](lectures/L1_Introduction_Python.pdf), [Tutorial 1](tutorials/T01_Python-first-steps.ipynb), [Homework 1](exercises/E01_First-steps-in-Python.ipynb), Solutions  |
-| 2 | Sep 16th | Time series : basic operations | Michael Graupner |  [Lecture 2](lectures/L2_Time_Series.pdf), [Tutorial 2](tutorials/T02_Time-series-Empty.ipynb), Homework, Solutions   |
+| 1 | Sep 9th | Introduction to Python : first steps | Michael Graupner | [Lecture 1](lectures/L1_Introduction_Python.pdf), [Tutorial 1](tutorials/T01_Python-first-steps.ipynb),
+ [Homework 1](exercises/E01_First-steps-in-Python.ipynb), [Solutions 1](exercises/E01Solutions_First-steps-in-Python.ipynb)  |
+| 2 | Sep 16th | Time series : basic operations | Michael Graupner |  [Lecture 2](lectures/L2_Time_Series.pdf), [Tutorial 2](tutorials/T02_Time-series.ipynb), [Homework 2](exercises/E02_Time-series.ipynb), Solutions   |
 | 3 | Sep 23rd | Wrangling spike trains : basic analysis, raster plot, PSTH, Poisson spike trains | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
 | 4 | Sep 30th | Spectral analysis of analog signals : Fourier transform, Spectrogram, Signal Filtering | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
 | 5 | Oct 7th | Biophysical modelling of single neurons : integrate-and-fire neuron, introduction to numerical integration | Jonas Ranft | Lecture, Tutorial, Homework, Solutions  |
