@@ -54,8 +54,8 @@ All lectures and guided tutorials take place at **11h-13h on Wednesday's in room
 | 3 | Sep 23rd | Wrangling spike trains : basic analysis, raster plot, PSTH, Poisson spike trains | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
 | 4 | Sep 30th | Spectral analysis of analog signals : Fourier transform, Spectrogram, Signal Filtering | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
 | 5 | Oct 7th | Biophysical modelling of single neurons : integrate-and-fire neuron, introduction to numerical integration | Jonas Ranft | Lecture, Tutorial, Homework, Solutions  |
-| 6 | Oct 14th | Spiking neural network simulation with Brian  | Marcel Stimberg | Lecture, Tutorial, Homework, Solutions  |
-| 7 | Oct 21st | Regression analysis : correlation analysis, logisitic regression  | Michael Graupner | Lecture, Tutorial, Homework, Solutions   |
+| 6 | Oct 14th | Regression analysis : correlation analysis, logisitic regression  | Michael Graupner | Lecture, Tutorial, Homework, Solutions   |
+| 7 | Oct 21st | Spiking neural network simulation with Brian  | Marcel Stimberg | Lecture, Tutorial, Homework, Solutions  |
 | 8 | Oct 28th | Dimensionality reduction : PCA, covariance matrix, factor extraction | Michael Graupner | Lecture, Tutorial, Homework, Solutions  |
 | 9 | Nov 4th |Classification and clustering : SVM, KMeans estimate  | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
 |   | Nov 11th | Public holiday |  | |
