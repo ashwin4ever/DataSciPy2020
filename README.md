@@ -59,7 +59,7 @@ All lectures and guided tutorials take place at **11h-13h on Wednesday's in room
 | 8 | Oct 28th | Dimensionality reduction : PCA, covariance matrix, factor extraction | Michael Graupner | [Lecture 8](lectures/L8_Dimensionality-reduction.pdf), [Tutorial 8](tutorials/T08_Dimensionality-reduction.ipynb), [Homework 8](exercises/E08_Dimensionality-reduction.ipynb), [Solutions 8](exercises/E08Solutions_Dimensionality-reduction.ipynb) [Online Notebook](https://deepnote.com/project/0ed791ce-5599-49bb-9336-65e3de7a8354)|
 | 9 | Nov 4th |Classification and clustering : SVM, KMeans estimate  | Michael Graupner | [Lecture 9](lectures/L9_Classification-Clustering.pdf), [Tutorial 9](tutorials/T09_Classification-Clustering.ipynb), [Homework 9](exercises/E09_Classification-Clustering.ipynb), Solutions [Online Notebook](https://deepnote.com/project/0ed791ce-5599-49bb-9336-65e3de7a8354)|
 |   | Nov 11th | Public holiday |  | |
-| 10 | Nov 18th | Moving beyond linearity : nonlinear regression / End-of-Course projects presentation | Michael Graupner | [Lecture 10](lectures/L10_Nonlinear-regression.pdf), [Tutorial 10](tutorials/T10_Nonlinear-regression-Empty.ipynb), Homework, Solutions [Online Notebook](https://deepnote.com/project/0ed791ce-5599-49bb-9336-65e3de7a8354)|
+| 10 | Nov 18th | Moving beyond linearity : nonlinear regression / End-of-Course projects presentation | Michael Graupner | Lecture, Tutorial, Homework, Solutions |
 | 11 | Nov 25th | Bioinformatics and Systems biology I  | Karine  Audouze | Lecture, Tutorial, Homework, Solutions  |
 | 12 | Dec 2nd | Bioinformatics and Systems biology II    | Karine  Audouze | Lecture, Tutorial, Homework, Solutions  |
 
@@ -71,8 +71,7 @@ moodle by Wednesday 11am** before the next course (e.g., the assignments of the 
 11am). Use the provided Jupyter Notebook (see table above or the moodle), add your edits to this file, and submit the modified Jupyter Notebook through the moodle.
 
 **Final exam (50 % of the final mark) :** Students will receive a list of projects they will work on
-for an extended period of time (about 1.5 months). Projects are small programming projects aimed at independently applying analysis methods acquired during the course. The project can be
-worked on individually or in teams of two students.
+for an extended period of time (about 1.5 months). Projects are small programming projects aimed at independently applying analysis methods acquired during the course. The project can be worked on individually or in teams of two students. Find more information on the End-of-Course projects [here](EndOfYearProjects.md).
 
 All student work - the weekly homework assignments, the final report and talk - can prepared in English or French, up to the 
 choice of the student. 
